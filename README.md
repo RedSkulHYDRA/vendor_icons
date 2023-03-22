@@ -1,5 +1,7 @@
 # Themed Icons
 
+Add these lines in device.mk or romname_devicename.mk:
+
 >**_$(call inherit-product, vendor/icons/Icons.mk)_**<br/>
 
 
