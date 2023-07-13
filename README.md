@@ -8,11 +8,9 @@ Add these lines in device.mk or romname_devicename.mk:
 >**_ICONS_VARIANT := name_of_variant_**<br/>
 
 
-- Extra themed icon packs. Total of 6 icon packs for your favourite apps and games **(BETA)**.
+- Extra themed icon packs. Total of 2 icon packs for your favourite apps and games **(BETA)**.
 > **This feature is currently in beta due to Android 13 restrictions**
 > Android 13 prefers themed icons made by apps, it looks through the apps first, only then it looks for themed icons overlay (which we use).
-> TeamFiles icons are very closed to stock themed icons, so we recommend using them.
-
 
 ## Credits/Thanks
 - Google
