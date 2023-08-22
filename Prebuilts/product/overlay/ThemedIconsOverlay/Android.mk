@@ -18,8 +18,8 @@ LOCAL_PATH:= $(call my-dir)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := ThemedIconsOverlay
-ifeq ($(ICONS_VARIANT), launch3r)
-LOCAL_SRC_FILES := ThemedIconsOverlaylaunch3r.apk
+ifeq ($(ICONS_VARIANT), launcher3)
+LOCAL_SRC_FILES := ThemedIconsOverlaylauncher3.apk
 else ifeq ($(ICONS_VARIANT), pissel)
 LOCAL_SRC_FILES := ThemedIconsOverlaypissel.apk
 else
